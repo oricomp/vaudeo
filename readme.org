@@ -1,0 +1,8 @@
+#+title: vaudeo
+
+A Video and Audio Board for the OriComp System
+
+#+CAPTION: Vaudeo Logo
+#+ATTR_ORG: :align center
+#+ATTR_HTML: :align center
+[[https://github.com/oricomp/vaudeo/blob/main/docs/logo/vaudeo_logo_gray.png]]

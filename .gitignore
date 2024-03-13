@@ -1,0 +1,9 @@
+# kicad
+*.bak
+*-backups
+*-cache
+*.lck
+
+# verilog
+waveforms
+build
