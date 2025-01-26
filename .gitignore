@@ -5,5 +5,10 @@
 *.lck
 
 # verilog
-waveforms
+waveform
 build
+sim_build
+results.xml
+
+# python
+__pycache__
